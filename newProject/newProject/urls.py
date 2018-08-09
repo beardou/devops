@@ -15,10 +15,10 @@ Including another URLconf
 """
 from django.conf.urls import include, url
 from django.contrib import admin
-import apps.reports
+import CMBD
 
 urlpatterns = [
     #url(r'^admin/', include(admin.site.urls)),
-    url(r'^reports/', include('apps.reports.urls', namespace='reports')),
+    url(r'^CMBD/', include('CMBD.urls', namespace='CMBD')),
 
 ]
