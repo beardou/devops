@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cc4a05c-3e03-4a06-aae2-78f62e33ded7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMBD/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CMDB/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMBD/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/CMDB/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMBD/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CMDB/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMBD/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/CMDB/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMBD/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/CMDB/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMBD/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CMDB/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMBD/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/CMDB/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/newProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/newProject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-    </list>
+    <list default="true" id="3cc4a05c-3e03-4a06-aae2-78f62e33ded7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +50,7 @@
     <session id="-1609853867">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="2" />
@@ -219,10 +206,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="101" />
-    <option name="y" value="67" />
-    <option name="width" value="1224" />
-    <option name="height" value="573" />
+    <option name="x" value="67" />
+    <option name="y" value="30" />
+    <option name="width" value="1299" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -262,7 +249,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mydevops/scanhosts/models.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
