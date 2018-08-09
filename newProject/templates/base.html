@@ -36,7 +36,6 @@
 				text-decoration: none;
 				color: #FFF;
 				background-color: rgb(91, 174, 255);
-				height: 50px;
 				line-height: 50px;
 				font-size: 25px;
 			}
@@ -178,9 +177,13 @@
 		<!--Main_content-->
 		<div id="content-wrapper">
 			<section id="content">
-				
-			</section>
-		</div>
+				<p>学生名单</p>
+                {% for Employee in Employees %}
+                    {{ Employee.id }}
+                    {{Employee.name }}
+                {% endfor %}
+            </section>
+        </div>
 		<!--Main_footer-->
 		<footer id="footer"></footer>
 	</body>

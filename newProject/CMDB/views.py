@@ -3,6 +3,7 @@ from django.shortcuts import render
 # Create your views here.
 from django.shortcuts import render
 from django.http import HttpResponse
+from CMDB.models import *
 
 
 # Create your views here.
@@ -13,4 +14,5 @@ from django.http import HttpResponse
 #     return HttpResponse("Hello World")
 
 def base(request):
-    return render(request, 'base.html', {})
+    Employees = Employee.objects.all()
+    return render(request, 'base.html', {'Employees': Employees})

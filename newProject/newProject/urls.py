@@ -15,10 +15,10 @@ Including another URLconf
 """
 from django.conf.urls import include, url
 from django.contrib import admin
-import CMBD
+import CMDB
 
 urlpatterns = [
-    #url(r'^admin/', include(admin.site.urls)),
-    url(r'^CMBD/', include('CMBD.urls', namespace='CMBD')),
+    url(r'^admin/', include(admin.site.urls)),
+    url(r'^CMDB/', include('CMDB.urls', namespace='CMDB')),
 
 ]
